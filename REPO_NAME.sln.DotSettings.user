@@ -27,5 +27,6 @@
 		Newtonsoft.Json.Linq.*
 		System.Xml.Linq.*
 		CineNet.Common.Logging.*
-		Moq.*</s:String>
+		ObjectAssertions.Be.*
+		Moq.Mock.*</s:String>
 </wpf:ResourceDictionary>
